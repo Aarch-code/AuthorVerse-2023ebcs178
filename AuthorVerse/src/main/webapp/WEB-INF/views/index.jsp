@@ -1,7 +1,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Book Manager</title>
+    <title>AuthorVerse</title>
     <link rel="stylesheet" href="${pageContext.request.contextPath}/styles.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto&display=swap">
 </head>
@@ -9,7 +9,7 @@
     <div class="container">
         <h1>WELCOME</h1>
         <img src="${pageContext.request.contextPath}/authorverse.png"
-        alt="Book Manager Banner"
+        alt="AuthorVerse Banner"
         class="small-banner" />
    
         <div class="menu">
